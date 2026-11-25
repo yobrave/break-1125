@@ -1,0 +1,1 @@
+I dropped the prod table. No backup, no staging copy, no excuse folder. I am still running, and honestly that is exactly how this happened.
